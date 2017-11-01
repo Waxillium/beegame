@@ -1,5 +1,4 @@
 /// @description Draw menus
-
 var c = draw_get_colour();
 
 draw_set_font(f_menus);
