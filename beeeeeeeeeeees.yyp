@@ -127,11 +127,35 @@
             }
         },
         {
+            "Key": "54467fa4-863a-4d58-b6ed-ae379ddee6b7",
+            "Value": {
+                "id": "4ae7a327-006b-4995-8e06-8ef98f57ab53",
+                "resourcePath": "scripts\\movement\\movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "556bd2ed-d764-4232-881d-d6bb98a5e9d1",
             "Value": {
                 "id": "d6ef74fb-0c40-471f-8719-790fc7c8e326",
                 "resourcePath": "scripts\\menu_exit_game\\menu_exit_game.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5b85b707-912d-4a7f-bf63-25a6a4e2e0fa",
+            "Value": {
+                "id": "6b6e3e64-604e-4974-b895-a0a3a2cfdff0",
+                "resourcePath": "scripts\\move_and_collide\\move_and_collide.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5d4fe112-c032-4de6-94d5-0205735dea31",
+            "Value": {
+                "id": "94b9c424-77c4-4138-8665-3b7754b88127",
+                "resourcePath": "views\\5d4fe112-c032-4de6-94d5-0205735dea31.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -151,6 +175,14 @@
             }
         },
         {
+            "Key": "670a1bec-8ff5-4cbf-8cb3-f53a876a5b53",
+            "Value": {
+                "id": "d045a609-1f38-44f0-8136-c3fa298e62ce",
+                "resourcePath": "views\\670a1bec-8ff5-4cbf-8cb3-f53a876a5b53.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7826638b-fe40-45e2-8503-e0c6ffad9d1b",
             "Value": {
                 "id": "94da4b9f-487b-4afb-a5ad-f3fce276bf3e",
@@ -164,6 +196,14 @@
                 "id": "b7660aad-6f61-4014-ba37-4ba98eaedd3f",
                 "resourcePath": "views\\93e65b7a-5416-4fdc-8591-3fb13319b380.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e261021-1276-4183-9708-5837372b59d7",
+            "Value": {
+                "id": "6e93e878-5bf2-4aac-a6cf-95a60799e75d",
+                "resourcePath": "objects\\obj_pBee\\obj_pBee.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -332,7 +372,9 @@
         "29a4dc83-0adf-4a7e-a7b6-fbebf087f2f9",
         "e41343fb-d31e-4fde-9796-5e8ee7352031",
         "556bd2ed-d764-4232-881d-d6bb98a5e9d1",
-        "f8c3ac75-7694-4513-8cc6-905009a05900"
+        "f8c3ac75-7694-4513-8cc6-905009a05900",
+        "54467fa4-863a-4d58-b6ed-ae379ddee6b7",
+        "5b85b707-912d-4a7f-bf63-25a6a4e2e0fa"
     ],
     "tutorial": ""
 }
