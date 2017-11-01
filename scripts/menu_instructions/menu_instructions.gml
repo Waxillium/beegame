@@ -1,2 +1,1 @@
-instructions = true;
-room_goto(menu_instructions);
+room_goto(r_instructions);

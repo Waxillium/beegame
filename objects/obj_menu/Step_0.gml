@@ -8,10 +8,3 @@ if(keyboard_check_pressed(vk_enter)){
         script_execute(option[1]);
     }
 }
-
-instructions = false;
-if(instructions){
-	if(keyboard_check_pressed(vk_escape)){
-		
-	}
-}
