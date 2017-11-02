@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "51487658-f608-4e8e-960f-1373400d9c31",
+            "Value": {
+                "id": "df1e4557-5238-4e90-a5e2-7fa113e8a46e",
+                "resourcePath": "objects\\obj_QueenBee\\obj_QueenBee.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "526d6a1c-2ae9-41bc-89ea-1cddbcae6200",
             "Value": {
                 "id": "8d5d2da5-330a-4571-bf85-d82a35230f76",
@@ -180,6 +188,14 @@
                 "id": "d045a609-1f38-44f0-8136-c3fa298e62ce",
                 "resourcePath": "views\\670a1bec-8ff5-4cbf-8cb3-f53a876a5b53.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "73877e97-3d7b-4a87-9fba-3aea545983da",
+            "Value": {
+                "id": "41022345-bb7f-4428-a515-6886b8c43dad",
+                "resourcePath": "objects\\obj_PlayerBee\\obj_PlayerBee.yy",
+                "resourceType": "GMObject"
             }
         },
         {
