@@ -1,8 +1,7 @@
 /// initialize player variables
 //movement properties
-spd = 5;
-turnspeed = 1/2;
-torqueVal = 3;
+spd = 20;
+turnspeed = .9;
 facingDir = 0;
 targetDir = 0;
 
