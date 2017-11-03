@@ -13,3 +13,7 @@ else{
 	hspd = lengthdir_x(spd, facingDir);
 	vspd = lengthdir_y(spd, facingDir);
 }
+
+if(facingDir>90&&facingDir<270){
+	image_xscale = -1;
+} else { image_xscale = 1; }

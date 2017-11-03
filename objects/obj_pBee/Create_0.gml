@@ -8,6 +8,7 @@ torqueVal = 3;
 facingDir = 0;
 targetDir = 0;
 target = null;
+isMoving = true;
 
 //movement trackers
 vspd = 0;

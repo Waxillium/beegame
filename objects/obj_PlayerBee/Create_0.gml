@@ -17,3 +17,6 @@ hp = 1;
 atk = 1;
 dir = 0;
 maxbees = 5;
+
+//image tracking
+spr_index = 0;

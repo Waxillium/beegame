@@ -26,3 +26,5 @@ repeat(abs(newyv)){
 		break;
 	}
 }
+
+if(hspd==0 && vspd == 0) isMoving = false;
