@@ -4,10 +4,29 @@
     "mvc": "1.0",
     "name": "obj_PlayerBee",
     "eventList": [
-        
+        {
+            "id": "17b396c5-f980-4224-8e64-3100c1e1f0b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "73877e97-3d7b-4a87-9fba-3aea545983da"
+        },
+        {
+            "id": "2b25ef23-b7a1-43c2-aea1-9368148d9e6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "73877e97-3d7b-4a87-9fba-3aea545983da"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "9e261021-1276-4183-9708-5837372b59d7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -22,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "345bb9f9-bd5f-4a86-8c32-1c7b02d8d920",
     "visible": true
 }
