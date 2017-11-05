@@ -6,6 +6,6 @@ if(object_exists(target)){
 	while(facingDir >= 360) { facingDir -=360; }
 	while(facingDir < 0) { facingDir +=360; }
 	
-	hspd = lengthdir_x(torqueVal, facingDir);
-	vspd = lengthdir_y(toqueVal, facingDir);
+	hspd = lengthdir_x(spd,facingDir);
+	vspd = lengthdir_y(spd, facingDir);
 }

@@ -1,6 +1,6 @@
 /// initialize player variables
 //movement properties
-spd = 20;
+spd = 7;
 turnspeed = .9;
 facingDir = 0;
 targetDir = 0;

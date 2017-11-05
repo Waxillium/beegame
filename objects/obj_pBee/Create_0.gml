@@ -4,7 +4,6 @@
 //movement properties
 spd = 3;
 turnspeed = 1/2;
-torqueVal = 3;
 facingDir = 0;
 targetDir = 0;
 target = null;
