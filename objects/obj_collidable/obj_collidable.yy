@@ -1,22 +1,13 @@
 {
-    "id": "51487658-f608-4e8e-960f-1373400d9c31",
+    "id": "eb7e457b-2828-4a03-8d1e-738c8b0abae0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_QueenBee",
+    "name": "obj_collidable",
     "eventList": [
-        {
-            "id": "666c868e-fd59-4cbd-8de6-57354a49fece",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "51487658-f608-4e8e-960f-1373400d9c31"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "eb7e457b-2828-4a03-8d1e-738c8b0abae0",
+    "parentObjectId": "fdeb42f8-1069-4496-ab9b-38027beaf53b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

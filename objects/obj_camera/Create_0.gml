@@ -1,3 +1,3 @@
 /// initialize camera instance variables
-var spd = 10;
-
+target = obj_PlayerBee;
+spd = 10;

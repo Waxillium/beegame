@@ -8,7 +8,7 @@ sx -= newxv;
 sy -= newyv;
 
 repeat(abs(newxv)){
-	if(!place_meeting(x+sign(newxv), y, all)){
+	if(!place_meeting(x+sign(newxv), y, obj_collidable)){
 		x += sign(newxv);
 	} else {
 		hspd = 0;
@@ -18,7 +18,7 @@ repeat(abs(newxv)){
 }
 
 repeat(abs(newyv)){
-	if(!place_meeting(x, y+sign(newyv), all)){
+	if(!place_meeting(x, y+sign(newyv), obj_collidable)){
 		y += sign(newyv);
 	} else {
 		vspd = 0;
