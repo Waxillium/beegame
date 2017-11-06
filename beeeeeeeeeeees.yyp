@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "1f384218-ef75-49fb-9a4c-2b28fcd51623",
+            "Value": {
+                "id": "b17152e4-c5fc-4f65-97cf-1a8fdadb622a",
+                "resourcePath": "sprites\\ts_trees\\ts_trees.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29a4dc83-0adf-4a7e-a7b6-fbebf087f2f9",
             "Value": {
                 "id": "ddb3e685-f3e5-45a1-9b52-d4f80f359fcc",
                 "resourcePath": "scripts\\wrap\\wrap.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2a1a6763-2d29-450a-8c13-27c75d727654",
+            "Value": {
+                "id": "13a1f6a4-fa01-4c11-b48f-fc4185de55ad",
+                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "62fae896-6a80-4fea-b38f-c2875753862c",
+            "Value": {
+                "id": "56f490be-544f-4a48-9089-09d612a76886",
+                "resourcePath": "tilesets\\ts_tree\\ts_tree.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "65b00105-d641-405b-8b13-0f42f7af801f",
             "Value": {
                 "id": "81ce63f7-1e52-4771-84c0-8ae89493dae7",
@@ -194,7 +218,7 @@
             "Key": "70cbb7f5-a3d0-4380-a34e-a8d4fbdea90c",
             "Value": {
                 "id": "df45de1c-1026-41f1-8ca7-028b45e9ba1b",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\ts_grass\\ts_grass.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -252,6 +276,14 @@
                 "id": "f8d6c0e4-5957-4da3-8806-705e79013642",
                 "resourcePath": "fonts\\f_menus\\f_menus.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a0e74ee0-6bb2-497b-886c-08f0ccbbbd9e",
+            "Value": {
+                "id": "cf68e5bd-6a20-41ab-8b23-58569c7b8dfa",
+                "resourcePath": "scripts\\stop\\stop.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -439,6 +471,7 @@
         "f8c3ac75-7694-4513-8cc6-905009a05900",
         "54467fa4-863a-4d58-b6ed-ae379ddee6b7",
         "b0905e95-9dfc-4381-80a9-f822b8ee5c8f",
+        "a0e74ee0-6bb2-497b-886c-08f0ccbbbd9e",
         "5b85b707-912d-4a7f-bf63-25a6a4e2e0fa"
     ],
     "tutorial": ""

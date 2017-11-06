@@ -10,6 +10,7 @@ vspd = 0;
 hspd = 0;
 sx = 0;
 sy = 0;
+stopMoving = true;
 
 //bee stats
 level = 0;
