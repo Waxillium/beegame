@@ -6,7 +6,6 @@ spd = 3;
 turnspeed = 1/2;
 facingDir = 0;
 targetDir = 0;
-target = null;
 isMoving = true;
 
 //movement trackers

@@ -1,18 +1,18 @@
 {
-    "id": "51487658-f608-4e8e-960f-1373400d9c31",
+    "id": "5fd3a50d-ed18-4652-88f2-acacc56b419e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_QueenBee",
+    "name": "obj_drone",
     "eventList": [
         {
-            "id": "666c868e-fd59-4cbd-8de6-57354a49fece",
+            "id": "5451d573-a409-449f-8530-6eb79e32282c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "51487658-f608-4e8e-960f-1373400d9c31"
+            "m_owner": "5fd3a50d-ed18-4652-88f2-acacc56b419e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +31,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "76c7bbfc-c342-4ca0-985f-026d3a8275ce",
     "visible": true
 }
