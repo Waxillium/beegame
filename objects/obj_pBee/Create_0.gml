@@ -2,11 +2,13 @@
 // this is the parent object for all bees that move
 
 //movement properties
-spd = 3;
+spd = 7;
 turnspeed = 1/2;
 facingDir = 0;
 targetDir = 0;
 isMoving = true;
+targetx = x;
+targety = y;
 
 //movement trackers
 vspd = 0;
